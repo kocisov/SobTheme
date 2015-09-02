@@ -1,0 +1,20 @@
+{
+    "title": "Sob Theme",
+    "name": "sob-theme",
+    "description": "Theme based on ITG.flat sublime theme + MidnightPumpkin colors.",
+    "version": "0.8.1",
+    "author": "Koci (https://github.com/kocisov)",
+    "homepage": "https://github.com/kocisov/sobtheme",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com/Kocisov/SobTheme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.43.0"
+    },
+    "theme": {
+        "file": "sob.min.css",
+        "dark": true
+    }
+}
